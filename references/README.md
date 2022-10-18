@@ -1,6 +1,4 @@
-As I come across new topics I add them to a readme to keep track of my learning
-
-
+As I come across new topics I add them to this readme to keep track of my learning
 ### Learning
 - What is Dependency Injection?
 - Difference between C# variable designations:
@@ -15,6 +13,5 @@ As I come across new topics I add them to a readme to keep track of my learning
 - Adding Linting/Prettier to projects
 - Typescript difference between 'unknown' and 'any' typing
 - How do MVVM frameworks work?
-
 
 ## Learned
