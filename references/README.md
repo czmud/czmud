@@ -1,7 +1,7 @@
 As I come across new topics I add them to a readme to keep track of my learning
 
 
-<h2> Learning </h2>
+### Learning
 - What is Dependency Injection?
 - Difference between C# variable designations:
   - singleton
@@ -17,4 +17,4 @@ As I come across new topics I add them to a readme to keep track of my learning
 - How do MVVM frameworks work?
 
 
-<h2>Learned</h2>
+## Learned
