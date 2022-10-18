@@ -1,4 +1,4 @@
-- Hi, I’m Caleb.
+Hi, I’m Caleb.
 
 I love being active, spending time outdoors, and most especially trad rock climbing ( style of climbing that relies on the climber to place all their own protection ). When not spending time in the outdoors, I enjoy spending time with my family and local community.
 
